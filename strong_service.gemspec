@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative "lib/strong_service"
 
 Gem::Specification.new do |spec|
